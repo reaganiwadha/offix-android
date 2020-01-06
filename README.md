@@ -1,4 +1,4 @@
-[![Travis CI Build Status](https://travis-ci.org/reaganiwadha/offix-android.svg?branch=master)](https://travis-ci.com/reaganiwadha/offix-android)
+[![Travis CI Build Status](https://travis-ci.org/reaganiwadha/offix-android.svg?branch=master)](https://travis-ci.org/reaganiwadha/offix-android)
 [![CodeCov Code Coverage](https://codecov.io/gh/reaganiwadha/offix-android/branch/master/graph/badge.svg)](https://travis-ci.com/reaganiwadha/offix-android)
 
 
